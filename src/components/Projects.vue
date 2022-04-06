@@ -8,7 +8,7 @@ import Resume from '~/../resume.json'
     <h3 mb-2>
       Projects
     </h3>
-    <div grid grid-cols-2 gap-2 text-dark-100>
+    <div grid lg:grid-cols-2 gap-2 text-dark-100>
       <div v-for="project in Resume.projects" :key="project.name">
         <div font-medium>
           {{ project.name }}

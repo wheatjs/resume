@@ -4,8 +4,8 @@ import About from '~/../About.md'
 </script>
 
 <template>
-  <div max-w-95ch w-full mx-auto grid grid-cols-5 gap-8>
-    <div col-span-3>
+  <div max-w-95ch w-full mx-auto grid lg:grid-cols-5 gap-8 p-4>
+    <div lg:col-span-3>
       <h3 mt-10>
         About
       </h3>
@@ -15,7 +15,7 @@ import About from '~/../About.md'
       <Work mt-8 />
       <Projects mt-8 />
     </div>
-    <div col-span-2 space-y-8>
+    <div row-start-1 lg:row-start-unset lg:col-span-2 space-y-8>
       <Header />
       <Education />
       <Skills />
