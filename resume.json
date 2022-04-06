@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "Jacob Clevenger",
+    "label": "Developer & Electrical Engineer",
+    "image": "",
+    "email": "jacobrclevenger@gmail.com",
+    "phone": "(912) 555-4321",
+    "url": "https://johndoe.com",
+    "summary": "A summary of John Doe…",
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "wheatjs",
+        "url": "https://twitter.com/wheatjs"
+      },
+      {
+        "network": "GitHub",
+        "username": "wheatjs",
+        "url": "https://github.com/wheatjs"
+      },
+      {
+        "network": "Website",
+        "username": "wheatjs",
+        "url": "https://wheatjs.me"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "We Are Kymera",
+      "position": "Software Developer",
+      "url": "https://wearekymera.com/",
+      "startDate": "May 2021",
+      "endDate": "Present",
+      "summary": "Responsible for developing and maintaining vasrious websites and backend applications."
+    },
+    {
+      "name": "Lockheed Martin",
+      "position": "Intern Test Engineer",
+      "url": "https://www.lockheedmartin.com/en-us/index.html",
+      "startDate": "June 2019",
+      "endDate": "September 2020",
+      "summary": "Was responsible for designing hardware and software for the testing of various projects."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Central Florida",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "Aug 2018",
+      "endDate": "May 2022"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "keywords": [
+        "Typescript",
+        "Vue",
+        "React",
+        "TailwindCSS"
+      ]
+    },
+    {
+      "name": "Backend",
+      "keywords": [
+        "MySQL",
+        "MongoDB",
+        "NodeJS",
+        "ASP.NET Core"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "keywords": [
+        "Firebase"
+      ]
+    },
+    {
+      "name": "Languages",
+      "keywords": [
+        "Python",
+        "C",
+        "C#",
+        "Java"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "VueUse Playground",
+      "description": "A live playground for exploring VueUse.",
+      "url": "https://github.com/wheatjs/vueuse-playground"
+    },
+    {
+      "name": "Codebyte",
+      "description": "Codebyte was an experimental cafe themed social network.",
+      "url": "https://github.com/Black-Kro/codebyte.cafe"
+    },
+    {
+      "name": "vite-plugin-vue-gql",
+      "description": "Enables you to use GraphQL Tags in your Vue SFC",
+      "url": "https://github.com/wheatjs/vite-plugin-vue-gql"
+    },
+    {
+      "name": "vite-plugin-vue-type-imports",
+      "description": "Import types in Vue SFC for defineProps",
+      "url": "https://github.com/wheatjs/vite-plugin-vue-type-imports"
+    }
+  ]
+}

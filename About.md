@@ -1,0 +1,1 @@
+My name is Jacob Clevenger, an Electrical Engineering student and a passionate open-source developer. I enjoy coming up with creative solutions to problems and am always to looking learn more about the world we live in.
